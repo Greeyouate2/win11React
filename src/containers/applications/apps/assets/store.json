@@ -99,4 +99,18 @@
       "feat": "free information\nadd information\nedit information"
     }
   }
+  
+   {
+    "name": "GSearch Search Tools",
+    "icon": "https://gsearch-search.github.io/favicon/favicon.ico",
+    "type": "app",
+    "data": {
+      "type": "IFrame",
+      "url": "https://gsearch-search.github.io",
+      "gallery": [
+      ],
+      "desc": "GSearch Search Tools Online!",
+      "feat": "free search! beta"
+    }
+  }
 ]
